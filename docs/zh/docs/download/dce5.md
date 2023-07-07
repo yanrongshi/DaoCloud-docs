@@ -10,8 +10,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 离线包           | 版本    | 下载                                          | 更新日期   |
 | ---------------- | ------- | ------------------------------------------- | -------- |
-| offline-community-v0.8.0-arm64.tar | v0.8.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.8.0.md) | 2023-06-06 |
-| offline-community-v0.8.0-amd64.tar | v0.8.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.8.0.md) | 2023-06-06 |
+| offline-community-v0.9.0-arm64.tar | v0.9.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.9.0.md) | 2023-07-07 |
+| offline-community-v0.9.0-amd64.tar | v0.9.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.9.0.md) | 2023-07-07 |
 
 [更多历史版本](./free/dce5-installer-history.md)
 
@@ -21,8 +21,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 离线包            | 版本    | 下载                                        | 更新日期   |
 | ---------------- | ------- | ----------------------------------------- | -------- |
-| offline-v0.8.0-arm64.tar | v0.8.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.8.0.md) | 2023-06-06 |
-| offline-v0.8.0-amd64.tar | v0.8.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.8.0.md) | 2023-06-06 |
+| offline-v0.9.0-arm64.tar | v0.9.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.9.0.md) | 2023-07-07 |
+| offline-v0.9.0-amd64.tar | v0.9.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.9.0.md) | 2023-07-07 |
 
 [更多历史版本](./business/dce5-installer-history.md)
 
@@ -32,8 +32,8 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 | 离线包            | 版本    | 下载                                        | 更新日期   |
 | ---------------- | ------- | ----------------------------------------- | -------- |
-| addon-offline-full-package-v0.8.0-rc2-arm64.tar.gz | v0.8.0-rc2 | [:arrow_right: 下载页](./addon/v0.8.0-rc2.md) | 2023-06-15 |
-| addon-offline-full-package-v0.8.0-rc2-amd64.tar.gz | v0.8.0-rc2 | [:arrow_right: 下载页](./addon/v0.8.0-rc2.md) | 2023-06-15 |
+| addon-offline-full-package-v0.9.0-arm64.tar.gz | v0.9.0 | [:arrow_right: 下载页](./addon/v0.9.0.md) | 2023-07-07 |
+| addon-offline-full-package-v0.9.0-amd64.tar.gz | v0.9.0 | [:arrow_right: 下载页](./addon/v0.9.0.md) | 2023-07-07 |
 
 [更多历史版本](./addon/history.md)
 
