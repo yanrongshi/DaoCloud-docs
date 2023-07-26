@@ -258,6 +258,7 @@ nav:
               - Log Query: insight/user-guide/data-query/log.md
               - Metric Query: insight/user-guide/data-query/metric.md
               - Trace Query: insight/user-guide/data-query/trace.md
+              - Event Query: insight/user-guide/data-query/event.md
           - Alert Center:
               - insight/user-guide/alert-center/index.md
               - Alert Rules: insight/user-guide/alert-center/alert-policy.md
@@ -284,6 +285,7 @@ nav:
               - Configure Notification Template: insight/best-practice/notify-helper.md
               - Receive SkyWalking Trace Data with Zero Code using OTel: insight/best-practice/sw-to-otel.md
               - Use Insight to find service's problems: insight/best-practice/find_root_cause.md
+              - Kafka + ES Stream Architecture for Handling Large-Scale Logs: insight/best-practice/insight-kafka.md
           - Compatibility Test:
               - K8s Compatibility Test: insight/compati-test/k8s-compatibility.md
               - Rancher Compatibility Test: insight/compati-test/rancher-compatibility.md
@@ -549,6 +551,8 @@ nav:
               - istio-ingressgateway abnormal: mspider/troubleshoot/hosted-mesh-errors.md
               - Unable to unbind mesh space: mspider/troubleshoot/mesh-space-cannot-unbind.md
               - Issues on joining DCE 4.0: mspider/troubleshoot/dce4.0-issues.md
+          - Best Practice:
+              - Restricting Service Access with Mesh: mspider/best-practice/use-egress-and-authorized-policy.md
       - Network:
           - Intro:
               - What is Network: network/intro/what-is-net.md
