@@ -61,6 +61,7 @@ nav:
               - 集群角色: kpanda/user-guide/clusters/cluster-role.md
               - 集群状态: kpanda/user-guide/clusters/cluster-status.md
               - 如何选择运行时: kpanda/user-guide/clusters/runtime.md
+              - 集群版本支持范围: kpanda/user-guide/clusters/cluster-version.md
           - 命名空间:
               - 创建命名空间: kpanda/user-guide/namespaces/createns.md
               - 启用命名空间独享节点: kpanda/user-guide/namespaces/exclusive.md
@@ -521,6 +522,7 @@ nav:
               - mspider/user-guide/service-list/README.md
               - 从网格外部访问服务: mspider/user-guide/service-list/out-to-in.md
               - 服务条目: mspider/user-guide/service-list/service-entry.md
+              - 一键修复: mspider/user-guide/service-list/diagnose.md
           - 流量治理:
               - mspider/user-guide/traffic-governance/README.md
               - 虚拟服务: mspider/user-guide/traffic-governance/virtual-service.md
