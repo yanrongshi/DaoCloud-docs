@@ -265,6 +265,7 @@ nav:
               - 容器监控: insight/user-guide/scenario-insight/container.md
           - 场景监控:
               - 服务监控: insight/user-guide/scenario-insight/service.md
+              - 服务拓扑元素说明: insight/user-guide/scenario-insight/topology-helper.md
               - 服务拓扑: insight/user-guide/scenario-insight/topology.md
           - 数据查询:
               - 日志查询: insight/user-guide/data-query/log.md
@@ -459,6 +460,11 @@ nav:
                       - 流量治理: 
                           - 规则介绍: skoala/trad-ms/hosted/services/governance-policy.md
                           - 流控规则: skoala/trad-ms/hosted/services/flow-control.md
+                          - 熔断规则: skoala/trad-ms/hosted/services/circuit-breaker.md
+                          - 授权规则: skoala/trad-ms/hosted/services/auth.md
+                          - 热点规则: skoala/trad-ms/hosted/services/hotspot.md
+                          - 系统规则: skoala/trad-ms/hosted/services/system.md
+                          - 集群流控: skoala/trad-ms/hosted/services/cluster-flow.md
                   - 配置管理:
                       - skoala/trad-ms/hosted/configs.md
                   - 监控:
@@ -779,6 +785,7 @@ nav:
                   - 创建 MongoDB: middleware/mongodb/user-guide/create.md
                   - 更新 MongoDB: middleware/mongodb/user-guide/update.md
                   - 删除 MongoDB: middleware/mongodb/user-guide/delete.md
+                  - 查看 MongDB 日志: middleware/mongodb/user-guide/logs.md
       - 云原生存储:
           - 介绍:
               - 什么是云原生存储: storage/index.md
