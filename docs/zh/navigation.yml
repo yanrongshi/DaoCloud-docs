@@ -895,6 +895,9 @@ nav:
           - 应用场景: kant/intro/use-cases.md
           - 边缘节点接入要求: kant/intro/join-rqmt.md
           - 基本概念: kant/intro/concepts.md
+          # - 边云消息:
+              # - 边云消息概述: kant/user-guide/route/overview.md
+              # - 创建消息路由: kant/user-guide/route/create-route.md
       - 虚拟机容器:
           - 介绍:
               - 简介: virtnest/intro/index.md
@@ -941,6 +944,7 @@ nav:
       - 体验社区版: trial/index.md
   - 博客:
       - 博文索引: blogs/index.md
+      - 202308 | Kubernetes 1.28 震撼发布: blogs/230815-k8s1.28.md
       - 202308 | K8sGPT 赋能 Kubernetes: blogs/230808-k8sgpt.md
       - 202306 | AIGC 利器 Ray 云原生探索下篇: blogs/230615-ray.md
       - 202306 | AIGC 利器 Ray 云原生探索上篇: blogs/230612-ray.md
