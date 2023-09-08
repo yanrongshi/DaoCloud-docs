@@ -33,6 +33,10 @@
 
 ## 前置检查
 
+!!! note
+
+    目前安装器的脚本中仅会针对火种机器进行前置检查，主要包含了是否已经安装前置依赖工具，及当前火种的 CPU > 10Core、Memory > 12G、disk > 100GB
+
 ### 机器检查
 
 | **检查项** | **具体要求**                           | **说明**                                                     |
@@ -60,7 +64,7 @@
 如果不存在依赖组件，通过脚本进行安装依赖组件，[安装前置依赖](../install-tools.md)。
 
 ```bash
-export VERSION=v0.9.0
+export VERSION=v0.11.0
 # 下载脚本
 curl -LO https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/install_prerequisite_${VERSION}.sh
 
