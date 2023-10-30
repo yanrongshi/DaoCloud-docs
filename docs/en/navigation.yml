@@ -220,15 +220,27 @@ nav:
                   - Cluster and Namespace Authorization: kpanda/user-guide/permissions/cluster-ns-auth.md
               - GPU Management:
                   - Intro: kpanda/user-guide/gpu/index.md
-                  - NVIDIA vGPU:
-                      - Install Nvidia GPU Driver: kpanda/user-guide/gpu/vgpu_driver.md
-                      - Install vGPU Addon: kpanda/user-guide/gpu/vgpu_addon.md
-                      - Use vGPU: kpanda/user-guide/gpu/vgpu_user.md
-                  - NVIDIA MIG:
-                      - NVIDIA GPU (MIG): kpanda/user-guide/gpu/mig_index.md
-                      - Create MIG via GPU Operator: kpanda/user-guide/gpu/create_mig.md
-                      - Use MIG GPU: kpanda/user-guide/gpu/mig_usage.md
-                      - MIG Commands: kpanda/user-guide/gpu/mig_command.md
+                  - GPU Matrix: kpanda/user-guide/gpu/gpu_matrix.md
+                  - NVIDIA GPU Management:
+                      - NVIDIA GPU Modes: kpanda/user-guide/gpu/nvidia/index.md
+                      - Install GPU Operator: 
+                          - Install GPU Operator: kpanda/user-guide/gpu/nvidia/install_nvidia_driver_of_operator.md
+                          - Build Offline yum Source for CentOS 7.9: kpanda/user-guide/gpu/nvidia/upgrade_yum_source_centos7_9.md
+                          - Upload RedHat GPU Opreator Image to Bootstrap Registry: kpanda/user-guide/gpu/nvidia/push_image_to_repo.md
+                          - Build Offline yum Source for RedHat 8.4: kpanda/user-guide/gpu/nvidia/upgrade_yum_source_redhat8_4.md
+                      - NVIDIA GPU Full Card Mode: kpanda/user-guide/gpu/nvidia/full_gpu_userguide.md
+                      - NVIDIA vGPU Mode:
+                          - Install vGPU Addon: kpanda/user-guide/gpu/nvidia/vgpu/vgpu_addon.md
+                          - Use NVIDIA vGPU: kpanda/user-guide/gpu/nvidia/vgpu/vgpu_user.md
+                      - NVIDIA MIG Mode:
+                          - NVIDIA MIG Overview: kpanda/user-guide/gpu/nvidia/mig/index.md
+                          - Enable MIG Features: kpanda/user-guide/gpu/nvidia/mig/create_mig.md
+                          - Use NVIDIA MIG: kpanda/user-guide/gpu/nvidia/mig/mig_usage.md
+                          - MIG Commands: kpanda/user-guide/gpu/nvidia/mig/mig_command.md
+                  - Ascend GPU:
+                      - Use Ascend GPU: kpanda/user-guide/gpu/Ascend_usage.md
+                  - Iluvatar GPU:
+                      - Use Iluvatar GPU: kpanda/user-guide/gpu/Iluvatar_usage.md
                   - GPU Quota Management: kpanda/user-guide/gpu/vgpu_quota.md
               - Best Practices:
                   - Backup and Restore ETCD: kpanda/best-practice/etcd-backup.md
@@ -762,6 +774,7 @@ nav:
                       - Benefits: middleware/elasticsearch/intro/benefits.md
                       - Use Cases: middleware/elasticsearch/intro/scenarios.md
                       - Concepts: middleware/elasticsearch/intro/concepts.md
+                      - Offline Upgrade elasticsearch: middleware/elasticsearch/intro/offline-install.md
                       - Release Notes: middleware/elasticsearch/release-notes.md
                   - ES Cluster Capacity Planning: middleware/elasticsearch/user-guide/cluster-capacity-plan.md
                   - Quick Start:
@@ -777,6 +790,7 @@ nav:
                   - Intro:
                       - What is Kafka: middleware/kafka/intro/index.md
                       - Use Cases: middleware/kafka/intro/scenarios.md
+                      - Offline Upgrade kafka: middleware/kafka/intro/offline-install.md
                       - Concepts: middleware/kafka/intro/concepts.md
                       - Release Notes: middleware/kafka/release-notes.md
                   - Quick Start:
@@ -791,6 +805,7 @@ nav:
                   - Intro:
                       - What is MinIO: middleware/minio/intro/index.md
                       - Use Cases: middleware/minio/intro/scenarios.md
+                      - Offline Upgrade MinIO: middleware/minio/intro/offline-install.md
                       - Concepts: middleware/minio/intro/concepts.md
                       - Release Notes: middleware/minio/release-notes.md
                   - Quick Start:
@@ -807,6 +822,7 @@ nav:
                       - What is MySQL: middleware/mysql/intro/index.md
                       - Features: middleware/mysql/intro/features.md
                       - Benefits: middleware/mysql/intro/benefits.md
+                      - Offline Upgrade MySQL: middleware/mysql/intro/offline-install.md
                       - Concepts: middleware/mysql/intro/concepts.md
                       - Release Notes: middleware/mysql/release-notes.md
                   - Quick Start:
@@ -826,6 +842,7 @@ nav:
                       - Features: middleware/rabbitmq/intro/features.md
                       - Benefits: middleware/rabbitmq/intro/benefits.md
                       - Use Cases: middleware/rabbitmq/intro/scenarios.md
+                      - Offline Upgrade RabbitMQ: middleware/rabbitmq/intro/offline-install.md
                       - Concepts: middleware/rabbitmq/intro/concepts.md
                       - Release Notes: middleware/rabbitmq/release-notes.md
                   - Quick Start:
@@ -841,6 +858,7 @@ nav:
                   - Intro:
                       - What is Redis: middleware/redis/intro/index.md
                       - Use Cases: middleware/redis/intro/scenarios.md
+                      - Offline Upgrade Redis: middleware/redis/intro/offline-install.md
                       - Release Notes: middleware/redis/release-notes.md
                   - Quick Start:
                       - Create Redis Instance: middleware/redis/user-guide/create.md
@@ -856,6 +874,7 @@ nav:
                   - Intro:
                       - What is PostgreSQL: middleware/postgresql/intro/index.md
                       - Features: middleware/postgresql/intro/concepts.md
+                      - Offline Upgrade PostgreSQL: middleware/postgresql/intro/offline-install.md
                       - Release Notes: middleware/postgresql/release-notes.md
                   - Quick Start:
                       - Create PostgreSQL: middleware/postgresql/user-guide/create.md
@@ -867,7 +886,8 @@ nav:
                   - Intro:
                       - What is MongoDB: middleware/mongodb/intro/index.md
                       - Features: middleware/mongodb/intro/features.md
-                      - MongoDB Release Notes: middleware/mongodb/release-notes.md
+                      - Offline Upgrade MongoDB: middleware/mongodb/intro/offline-install.md
+                      - Release Notes: middleware/mongodb/release-notes.md
                   - Quick Start:
                       - Create MongoDB: middleware/mongodb/user-guide/create.md
                       - Update MongoDB: middleware/mongodb/user-guide/update.md
