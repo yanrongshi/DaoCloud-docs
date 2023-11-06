@@ -439,6 +439,7 @@ nav:
                   - 使用说明: network/modules/aliyun-terway/usage.md
                   - 阿里云运行 Calico: network/modules/aliyun-terway/aliyun-calico.md
                   - 阿里云运行 Cilium: network/modules/aliyun-terway/aliyun-cilium.md
+                  - 常见问题: network/modules/aliyun-terway/Q_A.md
           - 云原生存储:
               - 介绍:
                   - 什么是云原生存储: storage/index.md
@@ -1083,6 +1084,7 @@ nav:
                   - 应用备份: download/modules/kcoral.md
                   - 安全管理: download/modules/dowl.md
                   - 网络模块: download/modules/spidernet.md
+                  - 存储模块: download/modules/hwameistor.md
                   - 虚拟机容器: download/modules/virtnest.md
               - 多云编排: download/modules/kairship.md
               - 镜像仓库: download/modules/kangaroo.md
