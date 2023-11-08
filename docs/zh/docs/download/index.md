@@ -11,8 +11,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 离线包                              | 版本    | 下载                                                     | 更新日期   |
 | ----------------------------------- | ------- | -------------------------------------------------------- | ---------- |
-| offline-community-v0.11.0-arm64.tar | v0.11.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.11.0.md) | 2023-09-08 |
-| offline-community-v0.11.0-amd64.tar | v0.11.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.11.0.md) | 2023-09-08 |
+| offline-community-v0.12.0-arm64.tar | v0.12.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.12.0.md) | 2023-11-08 |
+| offline-community-v0.12.0-amd64.tar | v0.12.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.12.0.md) | 2023-11-08 |
 
 [更多历史版本](./free/dce5-installer-history.md)
 
@@ -22,8 +22,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 离线包                    | 版本    | 下载                                                         | 更新日期   |
 | ------------------------- | ------- | ------------------------------------------------------------ | ---------- |
-| offline-v0.11.0-arm64.tar | v0.11.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.11.0.md) | 2023-09-08 |
-| offline-v0.11.0-amd64.tar | v0.11.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.11.0.md) | 2023-09-08 |
+| offline-v0.12.0-arm64.tar | v0.12.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.12.0.md) | 2023-11-08 |
+| offline-v0.12.0-amd64.tar | v0.12.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.12.0.md) | 2023-11-08 |
 
 [更多历史版本](./business/dce5-installer-history.md)
 
@@ -71,7 +71,7 @@ DCE 5.0 还提供了各种精选中间件：
 | MySQL         |1.17 GB| [:arrow_right: 下载页](./modules/middleware/mysql.md)         | 2023-11-02 |
 | PostgreSQL    |1.37 GB| [:arrow_right: 下载页](./modules/middleware/postgresql.md)    | 2023-11-02 |
 | RabbitMQ      |162.75 MB| [:arrow_right: 下载页](./modules/middleware/rabbitmq.md)      | 2023-11-02 |
-| Redis         |537.81 MB| [:arrow_right: 下载页](./modules/middleware/redis.md)         | 2023-10-20 |
+| Redis |531.92 MB| [:arrow_right: 下载页](./modules/middleware/redis.md) |2023-11-08|
 | RocketMQ      |354.39 MB| [:arrow_right: 下载页](./modules/middleware/rocketmq.md)      |2023-11-02 |
 
 !!! note
