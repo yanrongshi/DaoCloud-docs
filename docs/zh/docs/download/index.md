@@ -33,8 +33,8 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 | 离线包                                          | 版本    | 下载                                       | 更新日期   |
 | ----------------------------------------------- | ------- | ------------------------------------------ | ---------- |
-| addon-offline-full-package-v0.11.0-arm64.tar.gz | v0.11.0 | [:arrow_right: 下载页](./addon/v0.11.0.md) | 2023-09-22 |
-| addon-offline-full-package-v0.11.0-amd64.tar.gz | v0.11.0 | [:arrow_right: 下载页](./addon/v0.11.0.md) | 2023-09-22 |
+| addon-offline-full-package-v0.12.0-arm64.tar.gz | v0.12.0 | [:arrow_right: 下载页](./addon/v0.12.0.md) | 2023-11-14 |
+| addon-offline-full-package-v0.12.0-amd64.tar.gz | v0.12.0 | [:arrow_right: 下载页](./addon/v0.12.0.md) | 2023-11-14 |
 
 [更多历史版本](./addon/history.md)
 
@@ -44,7 +44,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 | 模块     | 文件大小  | 下载                                           | 更新日期   |
 | -------- | --------- | ---------------------------------------------- | ---------- |
-| 容器管理 | 2.41 GB   | [:arrow_right: 下载页](./modules/ghippo.md)    | 2023-09-15 |
+| 容器管理 | 615.81 MB  | [:arrow_right: 下载页](./modules/ghippo.md)    | 2023-11-14 |
 | 集群巡检 | 205.11 MB | [:arrow_right: 下载页](./modules/kcollie.md)   | 2023-08-08 |
 | 应用备份 | 59.29 MB  | [:arrow_right: 下载页](./modules/kcoral.md)    | 2023-08-08 |
 | 安全管理 | 163 MB    | [:arrow_right: 下载页](./modules/dowl.md)      | 2023-08-25 |
