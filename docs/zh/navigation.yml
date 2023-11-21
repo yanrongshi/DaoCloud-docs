@@ -501,6 +501,7 @@ nav:
                       - 通过 Helm 部署 OpenEBS: storage/solutions/openebs-helm.md
                   - TiDB: storage/hwameistor/application/tidb.md
                   - MinIO: storage/hwameistor/application/minio/minio.md
+                  - Fluid: storage/solutions/fluid.md
               - 存储基本概念:
                   - Kubernetes 存储: storage/terms/k8s_storage.md
                   - CAS 存储: storage/terms/cas.md
@@ -522,6 +523,7 @@ nav:
                   - 虚拟机模板: virtnest/quick-start/tep.md
                   - 连接虚拟机: virtnest/quick-start/access.md
                   - 快照管理: virtnest/quick-start/snapshot.md
+                  - 实时迁移: virtnest/quick-start/live-migration.md
                   - 通过 NodePort 访问虚拟机: virtnest/quick-start/nodeport.md
                   - Rook Ceph 部署流程: virtnest/quick-start/rook-ceph.md
                   - 离线升级: virtnest/install/offline-install.md
